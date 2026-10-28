@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dynadot is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://dynadot.com/
+Dynadot is a domain registrar and marketplace offering domain registration, transfer, aftermarket auctions, bulk search, and related services. It provides tools for domain management, DNS configuration, SSL certificates, and website building, serving over a million customers worldwide.
+
+**Areas:** Company · Domain Registrar · Marketplace · DNS Management · SSL
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dynadot.com/)
+- [Documentation](https://www.dynadot.com/domain/api-commands)
+- [Pricing](https://www.dynadot.com/help/pricing-payment)
+- [Support](https://www.dynadot.com/support)
+- [Blog](https://www.dynadot.com/blog)
+- [Security](https://www.dynadot.com/domain/security)
+- [Terms of service](https://www.dynadot.com/terms-of-use)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/dynadot/](https://apis.io/providers/dynadot/).
